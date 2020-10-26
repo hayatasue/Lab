@@ -1,0 +1,13 @@
+
+body {
+    text-align: center;
+}
+
+.cal {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#handle {
+    color: red;
+}
